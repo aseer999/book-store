@@ -1,0 +1,2 @@
+# book-store
+The goal of this master's project is to design an online bookstore named Techbook.comthat mainly sells computer and technical books. The book inventories are stored in Oracle database in UB. Customers can access the bookstore web site through the World Wide Web. Customers will be able to search the database to find the books they want, check the availability, and place the order to buy the book using their credit cards.
